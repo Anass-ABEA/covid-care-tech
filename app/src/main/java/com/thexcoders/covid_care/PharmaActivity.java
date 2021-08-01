@@ -68,7 +68,7 @@ public class PharmaActivity extends AppCompatActivity {
         list.add(pharmaPos);
         pharmaPos = new PharmaPos("Pharmacy Sample 4",
                 "2 kilometer away",
-                "White Bat St.  - Pharmacy and doctor’s office",
+                "Aileen St.  - Pharmacy and doctor’s office",
                 "4.7",
                 "11",
                 "Saturday 8am-2pm",
